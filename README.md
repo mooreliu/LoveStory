@@ -6,4 +6,8 @@ LIUYI's Love Story with CHEN00 ^_^
 First Day Commitment
 ==============================================================================
 2015-08-06
+<<<<<<< HEAD
 push to new branch
+=======
+This is a new Branch ):
+>>>>>>> a5c6420c4f58e1b09a8932e44f3b5a7ea543bfe9
